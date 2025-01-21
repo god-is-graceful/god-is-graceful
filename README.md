@@ -9,31 +9,9 @@
 * 🎯 Mój cel: stworzyć aplikację internetową zawierającą różne przekłady Pisma Świętego
 * 🔥 Moja motywacja: <b>"Wszystko mogę w Chrystusie, który mnie umacnia"</b> Filipian 4:13
 
-## Technologie
+## O moich projektach
 
-<table>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Programy</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-      <img width="2" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-    </td>
-  </tr>
-</table>
+* 🤖 <b>Biblia Bot</b> i <b>Bible Bot</b>: to boty służące do studiowania Biblii na Discordzie
+* 🌐 <b>Strony internetowe o biblijnych botach</b>: Biblia Bot i Bible Bot
 
 <img src="https://raw.githubusercontent.com/god-is-graceful/god-is-graceful/output/snake.svg" alt="Snake animation" />

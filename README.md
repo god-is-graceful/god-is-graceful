@@ -15,7 +15,7 @@
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
-    <th>Grafika</th>
+    <th>Programy</th>
   </tr>
   <tr>
     <td>
@@ -29,6 +29,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+      <img width="2" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
     </td>
   </tr>
 </table>
